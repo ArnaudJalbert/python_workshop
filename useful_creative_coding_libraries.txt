@@ -1,0 +1,17 @@
+For developing games and even interactive animations:
+
+pygame: https://www.pygame.org/news
+
+For simple and quick 2D drawing:
+
+turtle: https://docs.python.org/3/library/turtle.html
+
+For more sophisticated 2D canvas and interactivity:
+
+p5: https://p5.readthedocs.io/en/latest/
+processing: https://py.processing.org/
+noise: https://github.com/caseman/noise
+
+For math visualisation:
+
+manim: https://www.manim.community/awesome/
